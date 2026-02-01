@@ -1,6 +1,6 @@
 PHP Web Application Project
 
-<b>Live_Snacks</b>
+Live_Snacks
 
 Description:
 Web-based management system developed as a college minor project.
