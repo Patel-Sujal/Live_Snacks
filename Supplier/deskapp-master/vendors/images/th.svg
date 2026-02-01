@@ -1,0 +1,7 @@
+<svg width="300" height="66" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star Icon -->
+  <polygon points="140,12 160,12 170,30 180,12 200,12 180,22 190,40 170,28 150,40 160,22" fill="#FFD700" />
+
+  <!-- Text -->
+  <text x="50%" y="75%" font-family="Pacifico, cursive" font-size="50" font-weight="bold" fill="purple" text-anchor="middle" dy=".3em">Live Snacks</text>
+</svg>
